@@ -1,0 +1,34 @@
+body{
+  background-color: #312e2b;
+  color: #FFFFFF;
+}
+h1{
+  font-size: 48px;
+}
+.card{
+  background-color: #312e2b;
+  border: none;
+}
+.card-dark{
+  background-color: #262421;
+}
+.btn-primary{
+  background-color: #7fA650;
+  width: fit-content;
+}
+.btn-secondary{
+  background-color: #FFFFFF14;
+  padding-right: 32.5px;
+  padding-left: 20px;
+}
+#main{
+  max-width: 1050px;
+}
+footer{
+  font-size: 9pt;
+}
+#left-nav{
+  height: 100vh;
+  width: 145px;
+  background-color: cyan;
+}
